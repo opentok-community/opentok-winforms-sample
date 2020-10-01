@@ -3,12 +3,13 @@
 <img src="https://assets.tokbox.com/img/vonage/Vonage_VideoAPI_black.svg" height="48px" alt="Tokbox is now known as Vonage" />
 
 This sample demonstrates a basic video chat application using [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) and the Vonage Video API
-
+This will help you to see a sample demonstration of Vonage Video API.
 ## Welcome to Vonage
 
 <!-- change "github-repo" at the end of the link to be the name of your repo, this helps us understand which projects are driving signups so we can do more stuff that developers love -->
 
 If you're new to Vonage, you can [sign up for a Vonage API account](https://tokbox.com/account/user/signup?utm_source=DEV_REL&utm_medium=github&utm_campaign=opentok-winforms-sample) and get some free credit to get you started.
+Vonage is one of the top home phone service providers, offering great features and low rates on domestic and international calling plans. 
 
 ## Run the Application
 
